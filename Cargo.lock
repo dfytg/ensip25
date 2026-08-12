@@ -217,9 +217,9 @@ dependencies = [
 
 [[package]]
 name = "alloy-ens"
-version = "2.0.4"
+version = "2.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d5638cbbffb318d440fdb009de019090d8d117dae40de9d10cdb29891ea59eb9"
+checksum = "3fe3f812d024acd2a612aea20629130cd59595064f1420953e6e20c84165def9"
 dependencies = [
  "alloy-contract",
  "alloy-primitives",
